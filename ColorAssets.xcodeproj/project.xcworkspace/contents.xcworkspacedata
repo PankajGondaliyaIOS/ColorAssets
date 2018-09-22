@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:ColorExtension.xcodeproj">
+      location = "self:/Users/pankaj/Documents/Tutorials/ColorExtension/ColorAssets.xcodeproj">
    </FileRef>
 </Workspace>

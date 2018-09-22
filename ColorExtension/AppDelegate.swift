@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  ColorExtension
 //
-//  Created by pankaj on 31/07/18.
-//  Copyright © 2018 com.ColorExtension.Infostretch. All rights reserved.
+//  Created by pankaj on 22/09/2018.
+//  Copyright © 2018 com.ColorExtension.Pankaj. All rights reserved.
 //
 
 import UIKit
